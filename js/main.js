@@ -11,7 +11,7 @@ if ($(window).width() < 1024) {
 $('.slider-row').slick({
    slidesToShow: 5,
    slidesToScroll: 3,
-   prevArrow: '<button class="slick-btn slick-prev"><img src="img/left.png" alt="prev"></button>',
+   prevArrow: '<button class="slick-btn slick-prev"><img src="img/left.svg" alt="prev"></button>',
    nextArrow: '<button class="slick-btn slick-next"><img src="img/right.svg" alt="next"></button>',
    dots: true,
    centerMode: true,
